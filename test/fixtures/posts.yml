@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  city: MyString
+  rent_with_expenses_amount: 1.5
+  user_id: MyString
+  description: MyString
+  firstname: MyString
+  lastname: MyString
+  property_surface: 1.5
+  coordinates: MyString
+  address: MyString
+  pictures: 
+  rooms_count: 1
+  property_id: MyString
+  zip_code: 1
+
+two:
+  city: MyString
+  rent_with_expenses_amount: 1.5
+  user_id: MyString
+  description: MyString
+  firstname: MyString
+  lastname: MyString
+  property_surface: 1.5
+  coordinates: MyString
+  address: MyString
+  pictures: 
+  rooms_count: 1
+  property_id: MyString
+  zip_code: 1
